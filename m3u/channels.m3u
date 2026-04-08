@@ -1,0 +1,154 @@
+#EXTM3U
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/claro%20sport.png" tvg-id="Claro Sports",Claro Sports
+http://38.252.213.12:8000/play/a02n
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/claro%20sport%202.png" tvg-id="Claro Sports 2",Claro Sports 2
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYI4qpeGjcBHwDJRa_pdIIOo/m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/dsport.png" tvg-id="D Sports",D Sports
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYKBjmhZLY9NK7i8DUNUFZAn/m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/dsport%202.png" tvg-id="D Sports 2",D Sports 2
+http://38.7.216.143:80/play/GFkoA2cSBVY4fRPVPQMv5l2aO3MhS2rQ8EUE_MeiUYLVcZdtVmXQaJ4VlPsCUNeh/m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/dsport%20plus.png" tvg-id="D Sports+",D Sports+
+http://38.190.101.128:2233/play/a1ez/index.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/tnt%20sport%20premium.png" tvg-id="TNT Sports Premium Argentina",TNT Sports Premium Argentina
+http://45.238.54.67:8000/play/a02n/index.m3u8 
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/tnt%20sport%20premium.png" tvg-id="TNT Sports Premium Chile",TNT Sports Premium Chile
+http://209.14.108.45:8000/play/a0fx 
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/espn.png" tvg-id="ESPN",ESPN
+http://209.14.108.45:8000/play/a0c1
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/espn%202.png" tvg-id="ESPN 2",ESPN 2
+http://181.225.190.242:8000/play/a01m
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/espn%203.png" tvg-id="ESPN 3",ESPN 3
+http://181.225.190.242:8000/play/a01n
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/espn%204.png" tvg-id="ESPN 4",ESPN 4
+http://181.225.190.242:8000/play/a01o
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/espn%205.png" tvg-id="ESPN 5",ESPN 5
+http://181.225.190.242:8000/play/a01p
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/espn%206.png" tvg-id="ESPN 6",ESPN 6
+http://181.225.190.242:8000/play/a01q
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/espn%207.png" tvg-id="ESPN 7",ESPN 7
+http://181.225.190.242:8000/play/a01r
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/espn%20deportes.png" tvg-id="ESPN Deportes",ESPN Deportes
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI254nHE45W9Vce9gYq-zqWsAu/m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/espn%20premium.png" tvg-id="ESPN Premium",ESPN Premium
+http://209.14.108.45:8000/play/a0ho
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/fox%20sport%20argentina.png" tvg-id="Fox Sports Argentina",Fox Sports Argentina
+http://45.238.54.67:8000/play/a030/index.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/fox%20sport%202%20argentina.png" tvg-id="Fox Sports 2 Argentina",Fox Sports 2 Argentina
+http://45.238.54.67:8000/play/a017/index.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/fox%20sport%203%20argentina.png" tvg-id="Fox Sports 3 Argentina",Fox Sports 3 Argentina
+http://45.238.54.67:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/fox%20sport%20mexico.png" tvg-id="Fox Sports Mexico",Fox Sports Mexico
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/129803
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/fox%20sport%202%20mexico.png" tvg-id="Fox Sports 2 Mexico",Fox Sports 2 Mexico
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/130972
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/fox%20sport%203%20mexico.png" tvg-id="Fox Sports 3 Mexico",Fox Sports 3 Mexico
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/130973
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/fox%20sport%20pr%20mexico.png" tvg-id="Fox Sports Premium Mexico",Fox Sports Premium Mexico
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/130095
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/fox%20deportes.png" tvg-id="Fox Deportes",Fox Deportes
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/116662
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/tyc%20sport.png" tvg-id="TyC Sports",TyC Sports
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/130448
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/tigo%20sport.png" tvg-id="Tigo Sports",Tigo Sports
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/131169
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/tudn.png" tvg-id="TUDN",TUDN
+http://200.229.147.142:8000/play/a09n/index.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/win%20sport.png" tvg-id="Win Sports",Win Sports
+http://181.225.190.242:8000/play/a03r
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/win%20plus.png" tvg-id="Win Sports+",Win Sports+
+http://190.60.37.118:4000/play/a0bw
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/red%20bull%20tv.png" tvg-id="Red Bull TV",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/sky%20sport%20laliga.png" tvg-id="Sky LaLiga",Sky LaLiga
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/71839
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/m%20laliga.png" tvg-id="M. LaLiga",M. LaLiga
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/74028
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/m%20liga%20campeones.png" tvg-id="M. Liga de Campeones",M. Liga de Campeones
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/130774
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/liga%20hypermotion.png" tvg-id="LaLiga Hypermotion",LaLiga Hypermotion
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/74024
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/movistar%20deportes.png" tvg-id="M. Deportes",M. Deportes
+http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/161955
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/movistar%20vamos.png" tvg-id="M. Vamos",M. Vamos
+http://tv.diablotv.net:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8134
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/dazn%201.png" tvg-id="DAZN 1",DAZN 1
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/74017
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/dazn%202.png" tvg-id="DAZN 2",DAZN 2
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/74018
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/dazn%203.png" tvg-id="DAZN 3",DAZN 3
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/74019
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/dazn%204.png" tvg-id="DAZN 4",DAZN 4
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/74020
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/dazn%20laliga.png" tvg-id="DAZN LALIGA",DAZN LALIGA
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/74021
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/dazn%20laliga%202.png" tvg-id="DAZN LALIGA 2",DAZN LALIGA 2
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/74022
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/dazn%20f1.png" tvg-id="DAZN F1",DAZN F1
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/74045
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/televen.png" tvg-id="Televen",Televen
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/76726
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/globovision.png" tvg-id="Globovision",Globovision
+http://globalstreamz.xyz:5050/bpr16@msn.com/bNWvshyvrN/692981
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/canal%20i.png" tvg-id="Canal I",Canal I
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/76704
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/meridiano.png" tvg-id="Meridiano",Meridiano
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/76715
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/tves.png" tvg-id="TVES",TVES
+http://bigfree.xyz:25461/forum.tfms.xyz/MCFCok/185272
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/venevision.png" tvg-id="Venevision",Venevision
+https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/venevision%20plus.png" tvg-id="Venevision Plus",Venevision Plus
+http://181.78.7.90:12500/play/a0mf/index.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/spieluhr09/tv-sport/refs/heads/main/Logos%20Tv/venevision%20internacional.png" tvg-id="Venevision Internacional",Venevision Internacional
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
